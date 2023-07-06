@@ -16,7 +16,7 @@
     background: transparent;
     display: flex;
     align-items: center;
-    z-index: 100;
+    z-index: 2;
 }
 
 .logo { 
@@ -212,7 +212,7 @@
     position: absolute;
     bottom: 8%;
     right: 5%;
-    z-index: 99; 
+    z-index: 1; 
 }
 
 .navigation span { 
